@@ -1,0 +1,14 @@
+{
+  "name": "gulp-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp-minify-css": "^1.0.0"
+  },
+  "dependencies": {
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-livereload": "^3.8.0",
+    "gulp-styl": "^1.0.3",
+    "tiny-lr": "^0.1.5"
+  }
+}
